@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AKABAYASHI Seminar
 
 You can use the [editor on GitHub](https://github.com/mitajackass2021/mitafes2021/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
